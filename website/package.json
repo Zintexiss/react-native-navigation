@@ -19,7 +19,7 @@
     "@docusaurus/theme-live-codeblock": "2.0.0-alpha.63",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "remark-code-import": "^0.2.0"
+    "remark-code-import": "^0.4.0"
   },
   "browserslist": {
     "production": [
